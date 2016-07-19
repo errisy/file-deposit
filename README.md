@@ -22,3 +22,5 @@ This step may ask for username and password. to avoid that, in the ./.git/config
 ```
 
 then the push command will work without asking for username and password.
+
+The strategy allows you to build a shared service that is hosted for free.
