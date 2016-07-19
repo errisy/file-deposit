@@ -4,7 +4,7 @@ How to use github as web drive?
 
 1) Add a file to .git (You have to invoke git at the folder where .git folder is available.
 ```
-git add text.txt
+git add test.txt
 ```
 2) Commit Changes:
 ```
